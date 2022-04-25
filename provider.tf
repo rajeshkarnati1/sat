@@ -1,4 +1,4 @@
-provider "google" {
+provider "google-beta" {
   project     = "devproject-348110"
   region      = "us-central1"
   zone        = "us-central1-c"
